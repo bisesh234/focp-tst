@@ -1,0 +1,57 @@
+#  Logbook
+
+Welcome to my **Logbook** folder!  
+This section contains notes, reflections, and outputs from my programming journey. I use it to document what I’ve learned, challenges I faced, and solutions I discovered.
+
+Keeping a logbook helps track progress and makes revision easier — especially during lab exercises and assignments.
+
+---
+
+##  What You’ll Find Here
+
+This folder may include:
+
+- Daily notes from lab sessions
+- Summaries of lecture topics
+- Code snippets with explanations
+- Problem solving steps and examples
+- Output screenshots or recordings
+- Personal reflections on learning progress
+
+*(Update this section based on what’s actually in your logbook folder!)*
+
+---
+
+## Why I Use a Logbook
+
+The logbook helps me:
+
+- Understand programming concepts more deeply
+- Track my progress over time
+- Prepare for assignments and revision
+- Remember how I solved tricky problems
+
+This is my personal learning journal, and I update it as I go.
+
+---
+
+## How to Read These Files
+
+Some of these may be in:
+
+- `.md` Markdown files
+- `.txt` text notes
+- `.py` Python files with explanations
+- Images or screenshots
+
+You can open them directly in GitHub or clone the repository to view locally.
+
+---
+
+## Contact & Portfolio
+
+Explore more of my projects and code:  
+https://github.com/bisesh234
+
+Thanks for visiting — and happy coding! 
+
